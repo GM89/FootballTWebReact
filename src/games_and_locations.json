@@ -1,0 +1,156 @@
+{
+    "locations":[
+    {
+        "Katzenmaier":{
+            "full-name": "AJ Katzenmaier",
+            "address": "24 W. Walton St., Chicago, IL 60610",
+            "url": "https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d79896.00036669537!2d-87.63432217110461!3d41.91107217731799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x880fd34e07f6bac3%3A0x68a82e5d59952c86!2s24+W+Walton+St%2C+Chicago%2C+IL+60610!3m2!1d41.9002367!2d-87.6290717!5e0!3m2!1sen!2sus!4v1498661900848"
+        },
+        "Greenbay":{
+            "full-name": "Greenbay Elementary",
+            "address": "1734 N. Orleans St., Chicago, IL 60614",
+            "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.0251959124826!2d-87.64023168455779!3d41.91381707921941!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd34073f306a3%3A0x9e1726bbf8f23f0e!2s1734+N+Orleans+St%2C+Chicago%2C+IL+60614!5e0!3m2!1sen!2sus!4v1498666206411"
+        },
+        "Howard":{
+            "full-name": "Howard A Yeager Elementary",
+            "address": "2245 N. Southport Ave., Chicago, IL 60614",
+            "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2968.585683085616!2d-87.66511458455746!3d41.9232645792187!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd2e37f9b8d2d%3A0x62ad8b907dd755d6!2s2245+N+Southport+Ave%2C+Chicago%2C+IL+60614!5e0!3m2!1sen!2sus!4v1498666257800"
+        },
+        "Marjorie":{
+            "full-name": "Marjorie P Hart Elementary",
+            "address": "2625 N. Orchard St., Chicago, IL 60614",
+            "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5936.571390936897!2d-87.6478374194755!3d41.92971193428922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd30f2630e551%3A0x3e719e44a5cef714!2s2625+N+Orchard+St%2C+Chicago%2C+IL+60614!5e0!3m2!1sen!2sus!4v1498666301447"
+        },
+        "North":{
+            "full-name": "North Elementary",
+            "address": "1409 N. Ogden Ave., Chicago, IL 60610",
+            "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.336427766927!2d-87.648358384558!3d41.90712597921987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd33af13a8945%3A0xb6ad1ec2b6f379ba!2s1409+N+Ogden+Ave%2C+Chicago%2C+IL+60610!5e0!3m2!1sen!2sus!4v1498666346558"
+        },
+        "South":{
+            "full-name": "South Elementary",
+            "address": "2101 N. Fremont St., Chicago, IL 60614",
+            "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2968.749141506375!2d-87.65354528455761!3d41.91975117921891!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd3196fb41dc7%3A0x970be7f7d6336df5!2s2101+N+Fremont+St%2C+Chicago%2C+IL+60614!5e0!3m2!1sen!2sus!4v1498666373464"
+        }
+    }],
+    "game":[
+        {
+            "id_game": "1",
+            "date": "01_09_2021",
+            "time": "9:30 a.m.",
+            "teams": "U1 and U4",
+            "location": "Katzenmaier"
+        },
+        {
+            "id_game": "2",
+            "date": "01_09_2021",
+            "time": "1:00 p.m.",
+            "teams": "U3 and U2",
+            "location": "Greenbay"
+        },
+        {
+            "id_game": "3",
+            "date": "08_09_2021",
+            "time": "9:30 a.m.",
+            "teams": "U5 and U6",
+            "location": "Howard"
+        },
+        {
+            "id_game": "4",
+            "date": "08_09_2021",
+            "time": "1:00 p.m.",
+            "teams": "U6 and U1",
+            "location": "Majorie"
+        },
+        {
+            "id_game": "5",
+            "date": "15_09_2021",
+            "time": "9:30 a.m.",
+            "teams": "U2 and U4",
+            "location": "North"
+        },
+        {
+            "id_game": "6",
+            "date": "15_09_2021",
+            "time": "1:00 p.m.",
+            "teams": "U3 and U5",
+            "location": "Katzenmaier"
+        },
+        {
+            "id_game": "7",
+            "date": "22_09_2021",
+            "time": "9:30 a.m.",
+            "teams": "U1 and U3",
+            "location": "South"
+        },
+        {
+            "id_game": "8",
+            "date": "22_09_2021",
+            "time": "1:00 p.m.",
+            "teams": "U2 and U6",
+            "location": "Howard"
+        },
+        {
+            "id_game": "9",
+            "date": "29_09_2021",
+            "time": "9:30 a.m.",
+            "teams": "U4 and U5",
+            "location": "Greenbay"
+        },
+        {
+            "id_game": "10",
+            "date": "06_10_2021",
+            "time": "9:30 a.m.",
+            "teams": "U2 and U5",
+            "location": "Majorie"
+        },
+        {
+            "id_game": "11",
+            "date": "06_10_2021",
+            "time": "1:00 p.m.",
+            "teams": "U1 and U6",
+            "location": "South"
+        },
+        {
+            "id_game": "12",
+            "date": "13_10_2021",
+            "time": "9:30 a.m.",
+            "teams": "U3 and U4",
+            "location": "Howard"
+        },
+        {
+            "id_game": "13",
+            "date": "13_10_2021",
+            "time": "1:00 p.m.",
+            "teams": "U5 and U1",
+            "location": "Greenbay"
+        },
+        {
+            "id_game": "14",
+            "date": "20_10_2021",
+            "time": "9:30 a.m.",
+            "teams": "U6 and U3",
+            "location": "North"
+        },
+        {
+            "id_game": "15",
+            "date": "20_10_2021",
+            "time": "1:00 p.m.",
+            "teams": "U2 and U4",
+            "location": "Majorie"
+        },
+        {
+            "id_game": "16",
+            "date": "27_10_2021",
+            "time": "9:30 a.m.",
+            "teams": "U3 and U1",
+            "location": "Katzenmaier"
+        },
+        {
+            "id_game": "17",
+            "date": "27_10_2021",
+            "time": "1:00 p.m.",
+            "teams": "U5 and U6",
+            "location": "Howard"
+        }
+    ]
+}
